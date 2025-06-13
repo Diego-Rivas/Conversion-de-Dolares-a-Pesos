@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\bin\Debug\Conversion de dolares a pesos mexicanos.exe.config
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\bin\Debug\Conversion de dolares a pesos mexicanos.exe
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\bin\Debug\Conversion de dolares a pesos mexicanos.pdb
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\obj\Debug\Conversion de dolares a pesos mexicanos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\obj\Debug\Conversion_de_dolares_a_pesos_mexicanos.Form1.resources
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\obj\Debug\Conversion_de_dolares_a_pesos_mexicanos.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\obj\Debug\Conversion de dolares a pesos mexicanos.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\obj\Debug\Conversion de dolares a pesos mexicanos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\obj\Debug\Conversion de dolares a pesos mexicanos.exe
+C:\Users\Estudiante\Desktop\Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos\obj\Debug\Conversion de dolares a pesos mexicanos.pdb

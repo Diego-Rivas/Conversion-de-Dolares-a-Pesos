@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion de dolares a pesos mexicanos", "Conversion de dolares a pesos mexicanos\Conversion de dolares a pesos mexicanos.csproj", "{82034708-CEE4-448E-B45B-6BDEDF4654DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82034708-CEE4-448E-B45B-6BDEDF4654DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82034708-CEE4-448E-B45B-6BDEDF4654DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82034708-CEE4-448E-B45B-6BDEDF4654DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82034708-CEE4-448E-B45B-6BDEDF4654DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E9C201-F615-4738-9346-A9135326D811}
+	EndGlobalSection
+EndGlobal
